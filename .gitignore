@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# MacOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Environment Variables
+.env
+#keystore
+.jks
+.hprof
+.keystore
+
+# Build Output
+dist/
+build/
+
+#VSCode
+.vscode
+
+### Android ###
+# Gradle files
+.gradle/
+build/
+
